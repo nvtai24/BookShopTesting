@@ -1,0 +1,15 @@
+/build/
+
+/dist/
+
+/nbproject/
+
+.scannerwork/
+
+*.class
+
+build.xml
+
+manifest.mf
+
+*.properties
